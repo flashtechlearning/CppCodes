@@ -1,6 +1,6 @@
 -> Commit #1
    22nd January
-   Commit this file and look for diff
+   Find differences in this line
 
 -> Warning: Do not include this file in the main repository
 
