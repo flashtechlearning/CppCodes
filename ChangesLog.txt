@@ -1,0 +1,5 @@
+-> Commit #1
+   22nd January
+   Commit this file and look for diff
+
+-> Warning: Do not include this file in the main repository
