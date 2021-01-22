@@ -2,6 +2,13 @@
    22nd January
    This should serve as a conflict line
 
--> Warning: Do not include this file in the main repository
+-> Delete the above line
 
 -> Delete the above line
+
+
+-> Warning: Do not include this file in the main repository
+
+
+
+-> Warning: Do not include this file in the main repository
